@@ -14,6 +14,7 @@ const AddProduct = () => {
     const { axios } = useAppContext(); // Custom axios instance (ensure it has withCredentials set)
 
     const onSubmitHandler = async (event) => {
+
         try {
             event.preventDefault();
 

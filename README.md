@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This project is a fully functional **Grocery Delivery E-commerce Website** built using the **MERN stack** — **MongoDB, Express, React, and Node.js**. The application supports online browsing and ordering of groceries, with a complete seller/admin dashboard, Stripe-based payments, and full deployment on Vercel.
+This project is a fully functional **Water Delivery E-commerce Website** built using the **MERN stack** — **MongoDB, Express, React, and Node.js**. The application supports online browsing and ordering of groceries, with a complete seller/admin dashboard, Stripe-based payments, and full deployment on Vercel.
 
 ### Key Highlights:
 

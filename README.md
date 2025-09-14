@@ -102,7 +102,7 @@ npm run dev
 ```
 
 Visit the app at:  
-**[http://localhost:5173](http://localhost:5173)**
+**[Ecommerce-live](https://ecommerce-platform-cyan-pi.vercel.app)**
 
 ## 🧪 Usage
 

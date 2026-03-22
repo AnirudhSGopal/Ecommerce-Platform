@@ -1,4 +1,4 @@
-# 🛒 Full Stack Grocery Delivery Website Using MERN Stack
+# 🛒 Full Stack Water Delivery Website Using MERN Stack
 
 ## 📌 Overview
 
